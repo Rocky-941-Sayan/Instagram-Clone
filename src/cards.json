@@ -1,0 +1,24 @@
+{
+    "card":[
+        {
+            "username":"ShahRukhKhan",
+            "img":"https://media.voguearabia.com/photos/6819d1d8ab0eb8b684f6d5dd/2:3/w_2560%2Cc_limit/GettyImages-2213072415.jpg"
+        },
+        {
+            "username":"SalmanKhan",
+            "img":"https://m.media-amazon.com/images/M/MV5BMjMwNTIxODg0OF5BMl5BanBnXkFtZTgwODg2NzM0OTE@._V1_.jpg"
+        },
+        {
+            "username":"AkshayKumar",
+            "img":"https://imageio.forbes.com/specials-images/imageserve/5ed579d37bd7a20006bef454/0x0.jpg?format=jpg&crop=880,880,x485,y0,safe&height=416&width=416&fit=bounds"
+        },
+        {
+            "username":"KatrinaKaif",
+            "img":"https://images.indianexpress.com/2025/03/katrina-kaif-1.jpg"
+        },
+        {
+            "username":"AmirKhan",
+            "img":"https://miro.medium.com/v2/resize:fit:3840/1*lasnXR_PKHsjXbI-LWLtzw.jpeg"
+        }
+    ]
+}
